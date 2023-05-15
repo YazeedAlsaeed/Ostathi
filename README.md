@@ -1,6 +1,7 @@
 # Ostathi
 
-### You need client folder only for this project
+
+* You need client folder only for this project
 
 ## Walkthrough video
 
